@@ -75,9 +75,6 @@ I'm a **MERN Stack Developer** specializing in building scalable, responsive, an
 
 ---
 
-
----
-
 <p align="center">
   <b>💙 Thanks for visiting my profile!</b>
 </p>
