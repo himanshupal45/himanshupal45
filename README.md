@@ -1,154 +1,244 @@
-# Himanshu Pal
+# 👋 Hi, I'm Himanshu Pal
 
-**MERN Stack Developer | Full Stack Engineer | React Specialist**
+### MERN Stack Developer | Full Stack Engineer | React Specialist
 
-himanshupal45 · he/him
+<p align="center">
+  <a href="https://github.com/himanshupal45">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/himanshu-pal-ab99342a2">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:himanshupal9788@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-pal-ab99342a2)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshupal45)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshupal9788@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-link.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanshupal45&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 ---
 
-## Professional Summary
+## 🚀 About Me
 
-MERN Stack Developer with expertise in MongoDB, Express.js, React, Node.js, and modern web technologies. Proven track record of delivering 15+ production applications supporting 500+ daily users. Achieved 40% faster load times through performance optimization, 35% improved development efficiency via reusable component architecture, and 50% increased mobile engagement through adaptive design. Experienced in building full-stack applications with RESTful APIs, Redux state management, and database design. Adept at Agile collaboration and writing clean, maintainable code.
+I'm a **MERN Stack Developer** specializing in building scalable, responsive, and production-ready web applications.
+
+* 💻 Experienced in **React, Node.js, Express.js, MongoDB**
+* 🚀 Built and deployed **15+ production applications**
+* 👥 Applications supporting **500+ daily users**
+* ⚡ Focused on performance, clean architecture, and reusable components
+* 🔐 Experienced with **JWT authentication & role-based access control**
+* 🌱 Continuously learning modern web technologies and best practices
+* 🤝 Comfortable working in Agile development teams
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
 ### Frontend
-- React, Redux, Bootstrap, Tailwind CSS, Material-UI, HTML5, CSS3
 
-### Backend
-- Node.js, Express.js, MongoDB, Mongoose, MySQL
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind,bootstrap" alt="Frontend Technologies"/>
+</p>
 
-### Languages
-- JavaScript ES6+, TypeScript
+### Backend & Database
 
-### Tools
-- Git, GitHub, Postman, VS Code, Chrome DevTools, WebStorm
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend Technologies"/>
+</p>
 
-### Performance
-- Code Splitting, Lazy Loading, Memoization, Caching, SEO
+### Tools & Technologies
 
-### Design
-- Responsive Web Design, Mobile-First, Flexbox, CSS Grid, UI/UX
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" alt="Tools"/>
+</p>
+
+### Development Expertise
+
+* RESTful API Development
+* MongoDB & Mongoose
+* Authentication & Authorization
+* JWT & Role-Based Access Control
+* Redux State Management
+* Responsive & Mobile-First Design
+* Performance Optimization
+* SEO Optimization
+* Code Splitting & Lazy Loading
+* Caching & Query Optimization
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
 ### MERN Stack Developer
-**Xeco Tect Pvt Ltd** | Jan 2025 – Present
 
-- Built and deployed 15+ full-stack web applications using MERN stack, serving 500+ daily active users
-- Designed reusable component libraries and RESTful APIs, reducing development cycles by 35%
-- Integrated MongoDB with Mongoose for efficient data modeling and CRUD operations
-- Optimized backend performance through query optimization, indexing, and middleware caching
-- Developed RESTful APIs with Express.js, maintaining 99.9% uptime for critical business applications
-- Implemented JWT authentication and role-based access control across multiple applications
-- Collaborated in Agile team delivering 5+ enterprise projects with 100% on-time completion
-- Mentored 2 junior developers in React, Node.js, and modern JavaScript patterns
+**Xeco Tect Pvt Ltd** · Jan 2025 – Present
 
----
-
-## Project Portfolio
-
-### Monitor Pro – Uptime Monitoring Platform
-**Tech Stack:** MERN Stack | [Live Demo](https://website-monitor.vercel.app)
-
-- Built full-stack monitoring application with React frontend and Node.js/Express backend
-- Designed MongoDB schema for efficient storage of user data and 100+ website monitoring logs
-- Implemented automated email/SMS alert system with 5-minute interval tracking
-- Developed real-time dashboard with historical analytics using Chart.js
-- Created RESTful API endpoints for seamless frontend-backend communication
-
-### Zepfinn Stock Platform
-**Tech Stack:** React, Node.js, REST APIs | [Live Demo](https://zepfinn.cloud)
-
-- Built stock search platform processing 1,000+ daily API requests with real-time market data
-- Created Node.js backend with Express for handling external financial APIs
-- Implemented client-side caching reducing response time by 50%
-- Designed drag-and-drop interface adopted by 85% of active users
-
-### Digitel Studio
-**Tech Stack:** React, Node.js, MongoDB | [Live Demo](https://digitelstudio.vercel.app)
-
-- Built SEO-optimized portfolio platform with React frontend and Node.js backend
-- Implemented contact/booking system with MongoDB for inquiry management
-- Achieved 40% faster load times via lazy loading and optimized assets
-- Increased mobile engagement by 30% through responsive design
-
-### 24x7 Parcels
-**Tech Stack:** React, Express, MongoDB | [Live Demo](https://24x7parcels.com)
-
-- Developed full-stack parcel delivery landing page with MERN stack
-- Built backend API for handling contact forms and booking requests
-- Boosted mobile engagement by 50% through mobile-first design approach
+* 🚀 Built and deployed **15+ full-stack web applications** using the MERN stack.
+* 👥 Developed applications serving **500+ daily active users**.
+* 🧩 Designed reusable React components and RESTful APIs, improving development efficiency by **35%**.
+* 🗄️ Designed and optimized MongoDB schemas using Mongoose.
+* ⚡ Improved backend performance through query optimization, indexing, and caching.
+* 🔐 Implemented JWT authentication and role-based access control.
+* 📈 Maintained **99.9% uptime** for critical business applications.
+* 🤝 Collaborated with Agile teams to deliver **5+ enterprise projects**.
+* 👨‍💻 Mentored junior developers in React, Node.js, and modern JavaScript practices.
 
 ---
 
-## Technical Achievements
+## 🌟 Featured Projects
 
-- **Full-Stack Development:** Built 10+ full-stack MERN applications with production deployment
-- **Database Design:** Designed MongoDB schemas and MySQL databases for 8+ projects
-- **API Development:** Created 20+ RESTful APIs with Node.js and Express.js
-- **Authentication:** Implemented JWT, OAuth, and role-based access control systems
-- **Performance:** Optimized backend queries reducing response time by 40%
+### 📊 Monitor Pro — Uptime Monitoring Platform
+
+**Tech Stack:** React · Node.js · Express.js · MongoDB · Chart.js
+
+* Built a full-stack website monitoring platform.
+* Designed MongoDB schemas for users and website monitoring logs.
+* Implemented automated email/SMS alerts with scheduled monitoring.
+* Created real-time dashboards with historical analytics.
+* Developed RESTful APIs for frontend-backend communication.
+
+🔗 **Live Demo:** https://website-monitor.vercel.app
 
 ---
 
-## Education
+### 📈 Zepfinn Stock Platform
 
-### Bachelor of Technology - Computer Science Engineering
-**Phonics Group of Institutions, Roorkee** | Uttarakhand Technical University
-2020 – 2024 | CGPA: 7.8/10
+**Tech Stack:** React · Node.js · Express.js · REST APIs
 
-### Senior Secondary Education (12th)
+* Built a stock search platform processing **1,000+ daily API requests**.
+* Integrated external financial APIs through a Node.js backend.
+* Implemented client-side caching to reduce response time by **50%**.
+* Created a drag-and-drop interface used by **85% of active users**.
+
+🔗 **Live Demo:** https://zepfinn.cloud
+
+---
+
+### 🎨 Digitel Studio
+
+**Tech Stack:** React · Node.js · MongoDB
+
+* Built an SEO-optimized portfolio platform.
+* Developed a contact and booking management system.
+* Improved page load performance by **40%** through lazy loading and asset optimization.
+* Increased mobile engagement by **30%** through responsive design.
+
+🔗 **Live Demo:** https://digitelstudio.vercel.app
+
+---
+
+### 📦 24x7 Parcels
+
+**Tech Stack:** React · Express.js · MongoDB
+
+* Developed a full-stack parcel delivery platform.
+* Built backend APIs for contact forms and booking requests.
+* Improved mobile engagement by **50%** using a mobile-first design approach.
+
+🔗 **Live Demo:** https://24x7parcels.com
+
+---
+
+## 🏆 Technical Achievements
+
+| Area          | Achievement                                        |
+| ------------- | -------------------------------------------------- |
+| 🚀 Full Stack | Built 10+ production MERN applications             |
+| 🗄️ Database  | Designed MongoDB & MySQL databases for 8+ projects |
+| 🔌 APIs       | Developed 20+ RESTful APIs                         |
+| 🔐 Security   | Implemented JWT, OAuth & RBAC                      |
+| ⚡ Performance | Reduced backend response times by up to 40%        |
+| 📱 UI/UX      | Built responsive, mobile-first interfaces          |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshupal45&show_icons=true&theme=default&hide_border=true" alt="Himanshu's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupal45&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshupal45&theme=default&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🎓 Education
+
+### Bachelor of Technology — Computer Science Engineering
+
+**Phonics Group of Institutions, Roorkee**
+Uttarakhand Technical University
+
+**2020 – 2024** · CGPA: **7.8/10**
+
+### Senior Secondary Education — 12th
+
 **Board of School Education, Uttarakhand**
-2019 – 2020 | Percentage: 72%
 
-### Secondary Education (10th)
+**2019 – 2020** · **72%**
+
+### Secondary Education — 10th
+
 **Board of School Education, Uttarakhand**
-2017 – 2018 | Percentage: 75%
+
+**2017 – 2018** · **75%**
 
 ---
 
-## Certifications
+## 📜 Certifications
 
-- Web Development Internship - Oasis Infobyte (AICTE OIB-SIP) | Mar 2024
-- Web Development Internship - OctaNet Services Pvt Ltd | Mar 2024
-- Web Development Internship - TechnoHacks EduTech | Feb 2024
-- Web Development Internship - CodSoft | Feb 2024
-- Data Analytics Workshop - Phonics Group of Institutions | Apr 2024
-
----
-
-## Additional Information
-
-- **Languages:** English (Professional), Hindi (Native)
-- **Interests:** Full-Stack Development, MERN Stack, Open Source, Cloud Deployment
-- **Availability:** Immediate
+* Web Development Internship — **Oasis Infobyte (AICTE OIB-SIP)** · Mar 2024
+* Web Development Internship — **OctaNet Services Pvt Ltd** · Mar 2024
+* Web Development Internship — **TechnoHacks EduTech** · Feb 2024
+* Web Development Internship — **CodSoft** · Feb 2024
+* Data Analytics Workshop — **Phonics Group of Institutions** · Apr 2024
 
 ---
 
-## GitHub Stats
+## 📫 Let's Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshupal45&show_icons=true&theme=default)
+<p align="center">
+  <a href="https://linkedin.com/in/himanshu-pal-ab99342a2">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:himanshuipal9788@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/himanshupal45">
+    <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupal45&layout=compact&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himanshupal45&theme=default)
+📧 **Email:** [himanshupal9788@gmail.com](mailto:himanshupal9788@gmail.com)
+📱 **Phone:** +91 7457057945
+🔗 **LinkedIn:** https://linkedin.com/in/himanshu-pal-ab99342a2
+💻 **GitHub:** https://github.com/himanshupal45
+🌐 **Portfolio:** https://portfolio-link.com
 
 ---
 
-## Connect with Me
+## ⚡ Quick Facts
 
-- **LinkedIn:** [linkedin.com/in/himanshu-pal-ab99342a2](https://linkedin.com/in/himanshu-pal-ab99342a2)
-- **GitHub:** [github.com/himanshupal45](https://github.com/himanshupal45)
-- **Email:** himanshupal9788@gmail.com
-- **Portfolio:** [portfolio-link.com](https://portfolio-link.com)
-- **Phone:** +91 7457057945
+* 🌍 Languages: **English (Professional), Hindi (Native)**
+* 💻 Specialization: **MERN Stack Development**
+* ☁️ Interests: **Cloud Deployment & Open Source**
+* 🎨 Focus: **Clean UI/UX & Performance**
+* 🚀 Availability: **Immediate**
+
+---
+
+<p align="center">
+  <b>💙 Thanks for visiting my profile!</b>
+</p>
+
+<p align="center">
+  <i>Let's build something amazing together 🚀</i>
+</p>
