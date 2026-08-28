@@ -73,7 +73,10 @@ I'm a **MERN Stack Developer** specializing in building scalable, responsive, an
 💻 **GitHub:** https://github.com/himanshupal45
 🌐 **Portfolio:** https://portfolio-link.com
 
+---
 
+
+---
 
 <p align="center">
   <b>💙 Thanks for visiting my profile!</b>
