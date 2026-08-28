@@ -14,9 +14,9 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshupal45&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+</p> -->
 
 ---
 
@@ -73,17 +73,7 @@ I'm a **MERN Stack Developer** specializing in building scalable, responsive, an
 💻 **GitHub:** https://github.com/himanshupal45
 🌐 **Portfolio:** https://portfolio-link.com
 
----
 
-## ⚡ Quick Facts
-
-* 🌍 Languages: **English (Professional), Hindi (Native)**
-* 💻 Specialization: **MERN Stack Development**
-* ☁️ Interests: **Cloud Deployment & Open Source**
-* 🎨 Focus: **Clean UI/UX & Performance**
-* 🚀 Availability: **Immediate**
-
----
 
 <p align="center">
   <b>💙 Thanks for visiting my profile!</b>
