@@ -71,7 +71,7 @@ I'm a **MERN Stack Developer** specializing in building scalable, responsive, an
 📱 **Phone:** +91 7457057945
 🔗 **LinkedIn:** https://linkedin.com/in/himanshu-pal-ab99342a2
 💻 **GitHub:** https://github.com/himanshupal45
-🌐 **Portfolio:** https://portfolio-link.com
+🌐 **Portfolio:** https://himanshu-portfolio-five-phi.vercel.app/
 
 ---
 
